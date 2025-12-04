@@ -140,6 +140,6 @@ Execute & compare with screenshots
 
 **👤 Author**
 
-Hitesh Garg
+Hitesh Garg|
 Aspiring Data Analyst → Finance Data Scientist
-Portfolio: https://www.notion.so/Portfolio-Hitesh-Garg-Data-Analytics-Journey-2a9e7a66bd4380e1904acef1d5f325d3
+|Portfolio: https://www.notion.so/Portfolio-Hitesh-Garg-Data-Analytics-Journey-2a9e7a66bd4380e1904acef1d5f325d3
