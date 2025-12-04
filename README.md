@@ -1,10 +1,10 @@
-📊 Retail SQL Mini Project
+**📊 Retail SQL Mini Project**
 
 Retail Sales Data Analysis using SQL (SQLite)
 This mini–project analyzes 3 months of retail sales data using SQL.
 It includes KPI validation, product-level insights, monthly performance, region trends, and identification of loss-making items.
 
-🔧 Tools & Technologies
+**🔧 Tools & Technologies**
 
 SQLite / DB Browser for SQLite
 
@@ -14,7 +14,7 @@ Excel (for quick validation)
 
 Markdown for documentation
 
-📁 Repository Structure
+**📁 Repository Structure**
 Retail-SQL-Mini-Project/
 │
 ├── retail_sql_project/
@@ -32,7 +32,7 @@ Retail-SQL-Mini-Project/
 │
 └── README.md  ← (this file)
 
-🧠 Project Overview
+**🧠 Project Overview**
 
 The goal of this project is to practice SQL by analyzing a retail sales dataset.
 Key business questions answered include:
@@ -47,7 +47,7 @@ Which products consistently lose money?
 
 Are profit calculations internally consistent?
 
-📸 Key Output Screenshots
+**📸 Key Output Screenshots**
 1️⃣ Dataset Validation
 
 Confirms Profit = Net Sales – Cost across entire dataset.
@@ -75,8 +75,8 @@ Compares revenue, units sold, and profit margin across regions.
 
 (See /screenshots/Top10_units.png)
 
-🏆 High-Level Insights
-📦 Products
+**🏆 High-Level Insights
+📦 Products**
 
 Ball is the #1 product by both revenue and units sold.
 
@@ -84,16 +84,16 @@ Glue Stick, Water Bottle, and Notebook generate negative total profit.
 
 Not all high-volume items are profitable — pricing or cost may need correction.
 
-📅 Monthly Trends
-
+**📅 Monthly Trends
+**
 February: Only loss-making month (₹112K sales but –₹14K profit).
 
 March: Highest sales and profit month (₹176K sales, ₹40K profit).
 
 Overall quarterly pattern: January → drop in February → strong rebound in March.
 
-🌎 Regional Performance
-
+**🌎 Regional Performance
+**
 North: Highest revenue + profit.
 
 East: Good sales but weak margins.
@@ -102,13 +102,13 @@ South: Lowest profit margin across regions.
 
 West: Smallest region but stable margins.
 
-✔ Dataset Validation
-
+**✔ Dataset Validation
+**
 Total Profit perfectly matches Net Sales – Cost.
 
 No structural data quality issues found in key numeric fields.
 
-📂 Full Query-by-Query Breakdown
+**📂 Full Query-by-Query Breakdown**
 
 The complete SQL queries (with explanations + insights) are inside:
 
@@ -142,4 +142,4 @@ Execute & compare with screenshots
 
 Hitesh Garg
 Aspiring Data Analyst → Finance Data Scientist
-Portfolio: [Add Notion link]
+Portfolio: https://www.notion.so/Portfolio-Hitesh-Garg-Data-Analytics-Journey-2a9e7a66bd4380e1904acef1d5f325d3
