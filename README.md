@@ -84,16 +84,16 @@ Glue Stick, Water Bottle, and Notebook generate negative total profit.
 
 Not all high-volume items are profitable — pricing or cost may need correction.
 
-**📅 Monthly Trends
-**
+📅 Monthly Trends
+
 February: Only loss-making month (₹112K sales but –₹14K profit).
 
 March: Highest sales and profit month (₹176K sales, ₹40K profit).
 
 Overall quarterly pattern: January → drop in February → strong rebound in March.
 
-**🌎 Regional Performance
-**
+🌎 Regional Performance
+
 North: Highest revenue + profit.
 
 East: Good sales but weak margins.
@@ -102,8 +102,8 @@ South: Lowest profit margin across regions.
 
 West: Smallest region but stable margins.
 
-**✔ Dataset Validation
-**
+✔ Dataset Validation
+
 Total Profit perfectly matches Net Sales – Cost.
 
 No structural data quality issues found in key numeric fields.
@@ -138,7 +138,7 @@ Copy SQL queries from Readme_Retail_Mini_Project.md
 
 Execute & compare with screenshots
 
-👤 Author
+**👤 Author**
 
 Hitesh Garg
 Aspiring Data Analyst → Finance Data Scientist
