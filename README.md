@@ -32,11 +32,6 @@ Retail-SQL-Mini-Project/
 │
 └── README.md ← (this file)
 
-Finance_SQL_Mini_Project/
-├── Finance_mini_project.sql            # Full SQL with comments + all queries
-├── Finance_data.csv
-├── Readme_Finance_Mini_Project_SQL.md  # Full narrative analysis
-└── screenshots/                        # 22 query result screenshots
 
 
 **🧠 Project Overview**
