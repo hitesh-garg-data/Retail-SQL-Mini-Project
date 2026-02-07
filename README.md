@@ -35,22 +35,16 @@ Retail-SQL-Mini-Project/
 
 
 **🧠 Project Overview**
-
-The goal of this project is to apply SQL to analyze retail sales data and validate profitability logic across products, regions, and time.
-
-Key business questions answered include:
-
-Which products generate the highest revenue?
-
-Which months perform best or worst?
-
-Which regions drive sales—and are they profitable?
-
-Which products consistently lose money?
-
-Are profit calculations internally consistent?
+- The goal of this project is to apply SQL to analyze retail sales data and validate profitability logic across products, regions, and time.
+- Key business questions answered include:
+- Which products generate the highest revenue?
+- Which months perform best or worst?
+- Which regions drive sales—and are they profitable?
+- Which products consistently lose money?
+- Are profit calculations internally consistent?
 
 **📸 Key Output Screenshots**
+
 1️⃣ Dataset Validation
 
 Confirms Profit = Net Sales – Cost across entire dataset.
@@ -81,30 +75,20 @@ Compares revenue, units sold, and profit margin across regions.
 **🧠 Observations & Patterns**
 
 📦 Products
-
-Ball is the #1 product by both revenue and units sold.
-
-Glue Stick, Water Bottle, and Notebook generate negative total profit.
-
-Not all high-volume items are profitable — pricing or cost may need correction.
+- Ball is the #1 product by both revenue and units sold.
+- Glue Stick, Water Bottle, and Notebook generate negative total profit.
+- Not all high-volume items are profitable — pricing or cost may need correction.
 
 📅 Monthly Trends
-
-February: Only loss-making month (₹112K sales but –₹14K profit).
-
-March: Highest sales and profit month (₹176K sales, ₹40K profit).
-
-Overall quarterly pattern: January → drop in February → strong rebound in March.
+- February: Only loss-making month (₹112K sales but –₹14K profit).
+- March: Highest sales and profit month (₹176K sales, ₹40K profit).
+- Overall quarterly pattern: January → drop in February → strong rebound in March.
 
 🌎 Regional Performance
-
-North: Highest revenue + profit.
-
-East: Good sales but weak margins.
-
-South: Lowest profit margin across regions.
-
-West: Smallest region but stable margins.
+- North: Highest revenue + profit.
+- East: Good sales but weak margins.
+- South: Lowest profit margin across regions.
+- West: Smallest region but stable margins.
 
 ✔ Dataset Validation
 
