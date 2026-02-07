@@ -33,7 +33,7 @@ Retail-SQL-Mini-Project/
 │
 └── README.md ← (this file)
 
----
+
 **🧠 Project Overview**
 
 The goal of this project is to apply SQL to analyze retail sales data and validate profitability logic across products, regions, and time.
