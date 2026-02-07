@@ -1,7 +1,6 @@
 **📊 Retail SQL Mini Project**
 
-Retail Sales Data Analysis using SQL (SQLite)
-This mini–project analyzes 3 months of retail sales data using SQL.
+Retail sales analysis using SQL (SQLite) to explore profitability, aggregation logic, and metric validation on a small dataset.
 It includes KPI validation, product-level insights, monthly performance, region trends, and identification of loss-making items.
 
 **🔧 Tools & Technologies**
@@ -34,7 +33,8 @@ Retail-SQL-Mini-Project/
 
 **🧠 Project Overview**
 
-The goal of this project is to practice SQL by analyzing a retail sales dataset.
+The goal of this project is to apply SQL to analyze retail sales data and validate profitability logic across products, regions, and time.
+
 Key business questions answered include:
 
 Which products generate the highest revenue?
@@ -75,8 +75,9 @@ Compares revenue, units sold, and profit margin across regions.
 
 (See /screenshots/Top10_units.png)
 
-**🏆 High-Level Insights
-📦 Products**
+**🧠 Observations & Patterns**
+
+📦 Products
 
 Ball is the #1 product by both revenue and units sold.
 
@@ -140,6 +141,7 @@ Execute & compare with screenshots
 
 **👤 Author**
 
-Hitesh Garg|
-Aspiring Data Analyst → Finance Data Scientist
+Hitesh Garg  
+Finance & Business Data Analyst
+
 |Portfolio: https://www.notion.so/Portfolio-Hitesh-Garg-Data-Analytics-Journey-2a9e7a66bd4380e1904acef1d5f325d3
