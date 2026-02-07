@@ -33,6 +33,19 @@ Retail-SQL-Mini-Project/
 │
 └── README.md ← (this file)
 
+Retail-SQL-Mini-Project/
+├── Retail_Mini_Project_SQL.db
+├── Retail_Mini_Project_SQL.csv
+├── Retail_Mini_Project_SQL.sqbpro
+├── Readme_Retail_Mini_Project.md      # Full detailed query-by-query explanation
+├── screenshots/                       # Query outputs & validation visuals
+│   ├── Dataset_validation.png
+│   ├── Monthly_sales.png
+│   ├── Region_wise_performance.png
+│   ├── Top_products.png
+│   ├── Products_negative_profit.png
+│   └── Top10_units.png
+└── README.md                          # This file
 
 **🧠 Project Overview**
 
