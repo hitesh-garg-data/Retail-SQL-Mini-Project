@@ -13,7 +13,9 @@ Excel (for quick validation)
 
 Markdown for documentation
 
-**📁 Repository Structure**
+## 📁 Repository Structure
+
+
 Retail-SQL-Mini-Project/
 │
 ├── retail_sql_project/
