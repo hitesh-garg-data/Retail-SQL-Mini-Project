@@ -19,20 +19,21 @@ Markdown for documentation
 Retail-SQL-Mini-Project/
 │
 ├── retail_sql_project/
-│     ├── Retail_Mini_Project_SQL.db
-│     ├── Retail_Mini_Project_SQL.csv
-│     ├── Retail_Mini_Project_SQL.sqbpro
-│     ├── Readme_Retail_Mini_Project.md   ← Full detailed query-by-query explanation
-│     ├── screenshots/
-│     │       ├── Dataset_validation.png
-│     │       ├── Monthly_sales.png
-│     │       ├── Region_wise_performance.png
-│     │       ├── Top_products.png
-│     │       ├── Products_negative_profit.png
-│     │       └── Top10_units.png
+│ ├── Retail_Mini_Project_SQL.db
+│ ├── Retail_Mini_Project_SQL.csv
+│ ├── Retail_Mini_Project_SQL.sqbpro
+│ ├── Readme_Retail_Mini_Project.md ← Full detailed query-by-query explanation
+│ └── screenshots/
+│ ├── Dataset_validation.png
+│ ├── Monthly_sales.png
+│ ├── Region_wise_performance.png
+│ ├── Top_products.png
+│ ├── Products_negative_profit.png
+│ └── Top10_units.png
 │
-└── README.md  ← (this file)
+└── README.md ← (this file)
 
+---
 **🧠 Project Overview**
 
 The goal of this project is to apply SQL to analyze retail sales data and validate profitability logic across products, regions, and time.
