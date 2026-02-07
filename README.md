@@ -17,7 +17,6 @@ Markdown for documentation
 
 
 Retail-SQL-Mini-Project/
-│
 ├── retail_sql_project/
 │   ├── Retail_Mini_Project_SQL.db
 │   ├── Retail_Mini_Project_SQL.csv
@@ -33,19 +32,12 @@ Retail-SQL-Mini-Project/
 │
 └── README.md ← (this file)
 
-Retail-SQL-Mini-Project/
-├── Retail_Mini_Project_SQL.db
-├── Retail_Mini_Project_SQL.csv
-├── Retail_Mini_Project_SQL.sqbpro
-├── Readme_Retail_Mini_Project.md      # Full detailed query-by-query explanation
-├── screenshots/                       # Query outputs & validation visuals
-│   ├── Dataset_validation.png
-│   ├── Monthly_sales.png
-│   ├── Region_wise_performance.png
-│   ├── Top_products.png
-│   ├── Products_negative_profit.png
-│   └── Top10_units.png
-└── README.md                          # This file
+Finance_SQL_Mini_Project/
+├── Finance_mini_project.sql            # Full SQL with comments + all queries
+├── Finance_data.csv
+├── Readme_Finance_Mini_Project_SQL.md  # Full narrative analysis
+└── screenshots/                        # 22 query result screenshots
+
 
 **🧠 Project Overview**
 
